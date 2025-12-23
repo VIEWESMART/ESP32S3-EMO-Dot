@@ -20,7 +20,7 @@
 
 3)Power: DC 5V, 1A
 
-4)Operation Temperature：-20~60℃;Storage Temperature：-30~70℃
+4)Operation Temperature：-20 ~ 60 ℃;Storage Temperature：-30 ~ 70 ℃
 
 5)Schematic get link: schematic
 
